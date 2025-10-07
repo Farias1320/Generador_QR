@@ -1,5 +1,5 @@
 # Generador QR
-=============
+---------
 
 Pequeño script en Python para generar un código QR a partir de una URL.
 
@@ -38,4 +38,5 @@ El script validará que la URL tenga esquema http(s) y guardará un PNG con el Q
 -------
 
 Código proporcionado como ejemplo para uso personal y educativo.
+
 
